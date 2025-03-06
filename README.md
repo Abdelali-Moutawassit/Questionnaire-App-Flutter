@@ -18,15 +18,15 @@ Ce projet est une application Flutter développée pour offrir un questionnaire 
    git clone https://github.com/yourusername/questionnaire_flutter.git
 2. Allez dans le répertoire du projet :
    ```bash
-cd questionnaire_flutter
+   cd questionnaire_flutter
 
 3. Installez les dépendances du projet :
    ```bash
-flutter pub get
+   flutter pub get
 
 4. Lancez l'application :
    ```bash
-flutter run
+   flutter run
 
 ## Structure du projet
 
@@ -38,9 +38,9 @@ lib/app_brain.dart: La logique de gestion des questions et des réponses.
 lib/question.dart: La définition du modèle Question qui contient les informations sur chaque question.
 
 ## Auteurs
-# Abdelali Moutawassit - Développeur mobile Flutter
+Abdelali Moutawassit - Développeur mobile Flutter
 
 ## Liens
-# LinkedIn - Abdelali Moutawassit
-# Portfolio - Abdelali Moutawassit
+LinkedIn - Abdelali Moutawassit
+Portfolio - Abdelali Moutawassit
 
