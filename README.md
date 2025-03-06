@@ -30,17 +30,20 @@ Ce projet est une application Flutter développée pour offrir un questionnaire 
 
 ## Structure du projet
 
-Voici la structure du projet :
 
-lib/main.dart: Le point d'entrée de l'application, où le widget principal MyApp est défini.
-lib/home_page.dart: La page principale de l'application où les questions et les réponses sont affichées.
-lib/app_brain.dart: La logique de gestion des questions et des réponses.
-lib/question.dart: La définition du modèle Question qui contient les informations sur chaque question.
+- `lib/main.dart`: Le point d'entrée de l'application, où le widget principal `MyApp` est défini.
+- `lib/home_page.dart`: La page principale de l'application où les questions et les réponses sont affichées.
+- `lib/app_brain.dart`: La logique de gestion des questions et des réponses.
+- `lib/question.dart`: La définition du modèle `Question` qui contient les informations sur chaque question.
+
 
 ## Auteurs
-Abdelali Moutawassit - Développeur mobile Flutter
+
+- **Abdelali Moutawassit** - Développeur mobile Flutter
 
 ## Liens
-LinkedIn - Abdelali Moutawassit
-Portfolio - Abdelali Moutawassit
+
+- [LinkedIn - Abdelali Moutawassit](https://www.linkedin.com/in/moutawassit-abdelali-98bb95267/)
+- [Portfolio - Abdelali Moutawassit](https://portfolio-moutawassit-abdelali.web.app/)
+
 
